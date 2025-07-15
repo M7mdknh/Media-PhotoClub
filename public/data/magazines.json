@@ -1,0 +1,35 @@
+[
+  {
+    "id": "issue-07",
+    "title_en": "Lights & Shadows - May 2025",
+    "title_ar": "الأضواء والظلال - مايو 2025",
+    "published": "2025-05-15",
+    "cover": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80",
+    "pdf": "/magazines/issue-07.pdf"
+  },
+  {
+    "id": "issue-06",
+    "title_en": "Campus Frames - Apr 2025",
+    "title_ar": "إطارات الحرم الجامعي - أبريل 2025",
+    "published": "2025-04-12",
+    "cover": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "pdf": "/magazines/issue-06.pdf"
+  },
+  {
+    "id": "issue-05",
+    "title_en": "Visual Stories - Mar 2025",
+    "title_ar": "القصص البصرية - مارس 2025",
+    "published": "2025-03-18",
+    "cover": "https://images.unsplash.com/photo-1465101178521-c1a9136a3fd8?auto=format&fit=crop&w=800&q=80",
+    "pdf": "/magazines/issue-05.pdf"
+  },
+  {
+    "id": "issue-04",
+    "title_en": "Through the Lens - Feb 2025",
+    "title_ar": "من خلال العدسة - فبراير 2025",
+    "published": "2025-02-22",
+    "cover": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80",
+    "pdf": "/magazines/issue-04.pdf"
+  }
+]
+

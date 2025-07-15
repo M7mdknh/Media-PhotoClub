@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "sectors": "Sectors & Units",
+    "activities": "Activities & Events",
+    "magazine": "Digital Magazine",
+    "gallery": "Gallery",
+    "partners": "Partners",
+    "contact": "Contact",
+    "blog": "News & Blog"
+  },
+  "hero": {
+    "title": "Because Every Picture Tells a Story",
+    "subtitle": "KFUPM Media & Photo Club",
+    "description": "Capturing moments, creating memories, and telling stories through the lens of creativity and innovation.",
+    "joinUs": "Join Our Community",
+    "exploreWork": "Explore Our Work"
+  },
+  "about": {
+    "title": "About Us",
+    "vision": "Vision",
+    "mission": "Mission",
+    "visionText": "To be the leading media and photography community in the region, fostering creativity and innovation in visual storytelling.",
+    "missionText": "To provide a platform for students to develop their skills in photography, videography, and digital media while creating meaningful content that represents our university and community.",
+    "stats": {
+      "members": "Active Members",
+      "events": "Events Organized",
+      "projects": "Projects Completed",
+      "awards": "Awards Won"
+    }
+  },
+  "sectors": {
+    "title": "Sectors & Units",
+    "subtitle": "Discover our specialized units and their unique contributions to the club",
+    "production": "Production Sector",
+    "media": "Media Sector",
+    "technical": "Technical Sector"
+  },
+  "events": {
+    "title": "Activities & Events",
+    "subtitle": "Join our upcoming events and activities",
+    "register": "Register Now",
+    "quota": "Available Spots",
+    "speaker": "Speaker",
+    "date": "Date",
+    "time": "Time"
+  },
+  "magazine": {
+    "title": "Digital Magazine",
+    "subtitle": "Explore our latest publications and creative works",
+    "download": "Download PDF",
+    "view": "View Online",
+    "published": "Published"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Explore our visual stories and creative works",
+    "photos": "Photos",
+    "videos": "Videos"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "Organizations that support our mission and vision",
+    "sponsorship": "Become a Partner"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us for collaborations, inquiries, or to join our community",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "message": "Message",
+    "send": "Send Message",
+    "info": {
+      "address": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+      "email": "info@kfupm-photoclub.com",
+      "phone": "+966 13 860 0000"
+    }
+  },
+  "blog": {
+    "title": "News & Blog",
+    "subtitle": "Stay updated with our latest news, stories, and insights",
+    "readMore": "Read More",
+    "readTime": "min read",
+    "author": "By",
+    "published": "Published on"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  }
+}
+

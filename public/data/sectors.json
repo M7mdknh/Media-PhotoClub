@@ -1,0 +1,85 @@
+[
+  {
+    "id": "production",
+    "title_en": "Production Sector",
+    "title_ar": "قطاق الإنتاج",
+    "desc_en": "Creating visual content and media production",
+    "desc_ar": "إنتاج المحتوى البصري والإعلامي",
+    "units": [
+      {
+        "id": "film-production",
+        "name_en": "Film Production Unit",
+        "name_ar": "وحدة صناعة الأفلام"
+      },
+      {
+        "id": "media-coverage",
+        "name_en": "Media Coverage Unit",
+        "name_ar": "وحدة التغطية الإعلامية"
+      },
+      {
+        "id": "photography",
+        "name_en": "Photography Unit",
+        "name_ar": "وحدة التصوير الفوتوغرافي"
+      },
+      {
+        "id": "design",
+        "name_en": "Design Unit",
+        "name_ar": "وحدة التصميم"
+      }
+    ]
+  },
+  {
+    "id": "digital-media",
+    "title_en": "Digital Media & Journalism Sector",
+    "title_ar": "قطاع الإعلام الرقمي والصحافة",
+    "desc_en": "Digital content creation and journalism",
+    "desc_ar": "إنتاج المحتوى الرقمي والصحافة",
+    "units": [
+      {
+        "id": "digital-magazine",
+        "name_en": "Digital Magazine Unit",
+        "name_ar": "وحدة المجلة الرقمية"
+      }
+    ]
+  },
+  {
+    "id": "support",
+    "title_en": "Support & Management Sector",
+    "title_ar": "قطاق الدعم والإدارة",
+    "desc_en": "Administrative and operational support",
+    "desc_ar": "الدعم الإداري والتشغيلي",
+    "units": [
+      {
+        "id": "training",
+        "name_en": "Training & Development Unit",
+        "name_ar": "وحدة التدريب والتطوير"
+      },
+      {
+        "id": "public-relations",
+        "name_en": "Public Relations Unit",
+        "name_ar": "وحدة العلاقات العامة"
+      },
+      {
+        "id": "finance",
+        "name_en": "Finance Unit",
+        "name_ar": "وحدة المالية"
+      },
+      {
+        "id": "marketing",
+        "name_en": "Marketing Unit",
+        "name_ar": "وحدة التسويق"
+      },
+      {
+        "id": "technical",
+        "name_en": "Technical Unit",
+        "name_ar": "وحدة التقنية"
+      },
+      {
+        "id": "operations",
+        "name_en": "Operations Unit",
+        "name_ar": "وحدة العمليات"
+      }
+    ]
+  }
+]
+

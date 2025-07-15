@@ -1,0 +1,55 @@
+[
+  {
+    "id": "light-workshop",
+    "title_en": "Studio Lighting Basics",
+    "title_ar": "أساسيات الإضاءة في الاستوديو",
+    "desc_en": "Hands-on session covering three-point lighting and modifiers.",
+    "desc_ar": "جلسة تطبيقية تغطي الإضاءة ثلاثية النقاط والمعدلات.",
+    "date": "2025-09-25T14:00:00Z",
+    "speaker_en": "Muntahar Al-Hakeem",
+    "speaker_ar": "منتظر الحكيم",
+    "quota": 25,
+    "category": "workshop",
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "film-premiere",
+    "title_en": "Short-Film Premiere Night",
+    "title_ar": "ليلة عرض الأفلام القصيرة",
+    "desc_en": "Premiere of five student-made films followed by Q&A.",
+    "desc_ar": "عرض أولي لخمسة أفلام من صنع الطلاب يتبعه جلسة أسئلة وأجوبة.",
+    "date": "2025-11-14T16:30:00Z",
+    "speaker_en": "Student Film Teams",
+    "speaker_ar": "فرق الأفلام الطلابية",
+    "quota": 120,
+    "category": "screening",
+    "image": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "photo-competition",
+    "title_en": "Annual Photography Competition",
+    "title_ar": "مسابقة التصوير السنوية",
+    "desc_en": "Submit your best shots and compete for amazing prizes.",
+    "desc_ar": "قدم أفضل لقطاتك وتنافس على جوائز مذهلة.",
+    "date": "2025-10-15T13:00:00Z",
+    "speaker_en": "Club Committee",
+    "speaker_ar": "لجنة النادي",
+    "quota": 50,
+    "category": "competition",
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "video-masterclass",
+    "title_en": "Video Editing Masterclass",
+    "title_ar": "ورشة إتقان مونتاج الفيديو",
+    "desc_en": "Advanced techniques in video editing and color grading.",
+    "desc_ar": "تقنيات متقدمة في مونتاج الفيديو وتدرج الألوان.",
+    "date": "2025-12-08T15:00:00Z",
+    "speaker_en": "Ahmed Al-Rashid",
+    "speaker_ar": "أحمد الراشد",
+    "quota": 30,
+    "category": "workshop",
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=800&q=80"
+  }
+]
+
