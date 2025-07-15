@@ -7,7 +7,7 @@ import path from 'path'
 export default defineConfig({
   plugins: [react(), tailwindcss({
     config: './tailwind.config.js',
-    base: '/Media-PhotoClub',
+    base: process.env.VITE_BASE_PATH || "/Media-PhotoClub",
   })],
   resolve: {
     alias: {
